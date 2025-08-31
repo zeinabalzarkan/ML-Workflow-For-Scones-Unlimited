@@ -1,0 +1,4 @@
+{
+  "statusCode": 200,
+  "body": "{\"inferences\": [0.9932637214660645, 0.006736303213983774], \"meets_threshold\": true}"
+}
